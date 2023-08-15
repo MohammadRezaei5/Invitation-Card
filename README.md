@@ -3,7 +3,7 @@ invitation card with html and css
 
 What will we learn in this mini project?
 * Flex-Box
-* Semantin Html Tags
+* HTML Semantic Elements
 
 --------------------------------------------------------------
 
